@@ -4,3 +4,4 @@ dash-bootstrap-components==1.2.1
 jupyter_dash
 gunicorn 
 tensorflow 
+scikit-learn
