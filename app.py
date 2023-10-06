@@ -430,7 +430,7 @@ def update_output(list_of_contents,
         if n_clicks is None:
             butpred = dash.no_update   
         else:
-            butpred =download.dfDownload(y_pred)
+            butpred =download.dfDownload(y_predpred)
 
         return  [  figure1,fig2,fig3,txt_output,butpred]
 
